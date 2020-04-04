@@ -3,10 +3,12 @@
 ## 
 
 php artisan make:request PostRequest 
- crea un archivo donde es donde se guardan las validaciones 
+
+ crea un archivo donde se guardan las validaciones 
 
 
 dd($request->all());
+
 helper que detiene y muestra todo lo que se esta obteniendo a trabes de variable
 
 
